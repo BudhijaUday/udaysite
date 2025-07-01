@@ -22,7 +22,7 @@ export default function Footer() {
           ))}
         </div>
         <div className="footer-bottom">
-          <p>© 2025 Uday Budhija. Built with React and custom CSS.</p>
+          <p>© 2025 Uday Budhija. Built with React.</p>
         </div>
       </div>
     </footer>
