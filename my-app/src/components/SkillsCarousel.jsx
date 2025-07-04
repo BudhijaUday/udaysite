@@ -8,24 +8,24 @@ export default function SkillsCarousel() {
     {
       title: "Frontend Technologies",
       skills: [
-        { name: "HTML5", icon: "🌐", color: "#ff6b35" },
-        { name: "CSS3", icon: "🎨", color: "#264de4" },
-        { name: "JavaScript", icon: "⚡", color: "#f0db4f" }
+        { name: "Python", icon: "💻", color: "#00599c" },
+        { name: "C++", icon: "🔧", color: "#f34b7d" },
+        { name: "JavaScript", icon: "📱", color: "#61dafb" }        
       ]
     },
     {
       title: "Programming Languages",
       skills: [
-        { name: "C", icon: "💻", color: "#00599c" },
-        { name: "C++", icon: "🔧", color: "#f34b7d" },
-        { name: "JavaScript", icon: "📱", color: "#61dafb" }
+        { name: "React", icon: "🌐", color: "#ff6b35" },
+        { name: "Node.js", icon: "🎨", color: "#264de4" },
+        { name: "Java", icon: "⚡", color: "#f0db4f" }
       ]
     },
     {
       title: "Modern Tools",
       skills: [
-        { name: "TypeScript", icon: "🔷", color: "#007acc" },
-        { name: "React", icon: "⚛️", color: "#61dafb" },
+        { name: "SQL", icon: "🔷", color: "#007acc" },
+        { name: "Docker", icon: "⚛️", color: "#61dafb" },
         { name: "Git", icon: "🔀", color: "#f1502f" }
       ]
     }
