@@ -6,7 +6,7 @@ export default function SkillsCarousel() {
 
   const skillSets = [
     {
-      title: "Frontend Technologies",
+      title: "Technologies and Programming Languages",
       skills: [
         { name: "Python", icon: "💻", color: "#00599c" },
         { name: "C++", icon: "🔧", color: "#f34b7d" },
@@ -14,7 +14,7 @@ export default function SkillsCarousel() {
       ]
     },
     {
-      title: "Programming Languages",
+      title: "Technologies and Programming Languages",
       skills: [
         { name: "React", icon: "🌐", color: "#ff6b35" },
         { name: "Node.js", icon: "🎨", color: "#264de4" },
