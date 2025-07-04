@@ -93,7 +93,7 @@ export default function Projects() {
       id: 1,
       title: "JamRoll.AI",
       description: "• Designed AI-driven feature rollout system to trigger smart rollbacks based on real-time metrics and user feedbacks • Integrated CI/CD pipelines using GitHub Actions and containerized using Docker",
-      image: "src/assets/projectimg/deploy.png",
+      image: "udaysite/my-app/src/assets/projectimg/deploy.png",
       technologies: ["Python", "Pytorch", "React", "NodeJS"],
       codeLink: "src/assets/deploy.png",
       liveLink: null
