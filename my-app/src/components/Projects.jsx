@@ -75,6 +75,8 @@
 
 import React from 'react';
 import { ExternalLink, Code } from 'lucide-react';
+import subdub from './assets/projectimg/subdub.jpg';
+
 
 export default function Projects() {
   const projects = [
@@ -83,7 +85,7 @@ export default function Projects() {
       title: "SubSnap",
       description: "Built a modular subscription management API using Node.js and Express.js that auto-parses email data to track renewal dates, pricing, and terms. • Integrated middleware, controllers, and services for a scalable backend • Designed efficient MongoDB schemas, improving query speed by 40 • Helped users avoid missed renewals through automated reminders ",
       // description: "Integrated middleware, controllers, and services for a scalable backend",
-      image:"src/assets/projectimg/subdub.jpg",
+      image:subdub,
       // image: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=500&h=300&fit=crop",
       technologies: ["Javascript", "Node JS", "MongoDB"],
       codeLink: "https://github.com/BudhijaUday/subscription_api",
