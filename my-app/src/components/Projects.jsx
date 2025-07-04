@@ -83,7 +83,7 @@ export default function Projects() {
       title: "SubSnap",
       description: "Built a modular subscription management API using Node.js and Express.js that auto-parses email data to track renewal dates, pricing, and terms. • Integrated middleware, controllers, and services for a scalable backend • Designed efficient MongoDB schemas, improving query speed by 40 • Helped users avoid missed renewals through automated reminders ",
       // description: "Integrated middleware, controllers, and services for a scalable backend",
-      image:"src/assets/subdub.jpg",
+      image:"src/assets/projectimg/subdub.jpg",
       // image: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=500&h=300&fit=crop",
       technologies: ["Javascript", "Node JS", "MongoDB"],
       codeLink: "https://github.com/BudhijaUday/subscription_api",
@@ -93,7 +93,7 @@ export default function Projects() {
       id: 1,
       title: "JamRoll.AI",
       description: "• Designed AI-driven feature rollout system to trigger smart rollbacks based on real-time metrics and user feedbacks • Integrated CI/CD pipelines using GitHub Actions and containerized using Docker",
-      image: "src/assets/deploy.png",
+      image: "src/assets/projectimg/deploy.png",
       technologies: ["Python", "Pytorch", "React", "NodeJS"],
       codeLink: "src/assets/deploy.png",
       liveLink: null
@@ -102,7 +102,7 @@ export default function Projects() {
       id: 2,
       title: "PDF Query App",
       description: "CLI tool that parses educational PDFs and answers questions in natural language,Converts raw PDFs into structured text enabling GPT-powered Q&A",
-      image: "src/assets/pdfq.png",
+      image: "src/assets/projectimg/pdfq.png",
       technologies: ["Python", "LangChain", "OpenAI"],
       codeLink: "https://github.com/BudhijaUday/PDFques",
       liveLink: null
@@ -111,7 +111,7 @@ export default function Projects() {
       id: 2,
       title: "Metro Map",
       description: "Command-line system computing shortest path and fare between metro stations using Dijkstra’s algorithm, Designed graph-based city-scale navigation logic",
-      image: "src/assets/metro.png",
+      image: "src/assets/projectimg/metro.png",
       technologies: ["Java"],
       codeLink: "https://github.com/BudhijaUday/Metro-App-in-java",
       liveLink: null
