@@ -75,7 +75,7 @@
 
 import React from 'react';
 import { ExternalLink, Code } from 'lucide-react';
-import subdub from './assets/projectimg/subdub.jpg';
+import subdub from '../assets/projectimg/subdub.jpg';
 
 
 export default function Projects() {
