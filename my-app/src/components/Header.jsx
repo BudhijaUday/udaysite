@@ -23,7 +23,7 @@ export default function Header() {
             <a href="https://udaybudhija.btw.so/">Blog</a>
             <a href="https://github.com/BudhijaUday" target="_blank" rel="noopener noreferrer">Github</a>
           </nav>
-          <a href="https://drive.google.com/file/d/15-e6FkKzApY3E_ctdI0G4GMlGMuKg4tJ/view?usp=drive_link" className="resume-btn">
+          <a href="https://drive.google.com/file/d/1FIaFJF-B1hB3__9cA-PoEwcN3XciNtSR/view?usp=sharing" className="resume-btn">
             Resume <Download size={16} />
           </a>
           <button className="mobile-menu-btn" onClick={() => setIsMenuOpen(!isMenuOpen)}>
@@ -36,7 +36,7 @@ export default function Header() {
           <a href="#contact" onClick={() => setIsMenuOpen(false)}>Contact</a>
           <a href="https://udaybudhija.btw.so/" onClick={() => setIsMenuOpen(false)}>Blog</a>
           <a href="https://github.com/BudhijaUday" target="_blank" rel="noopener noreferrer">Github</a>
-          <a href="https://drive.google.com/file/d/15-e6FkKzApY3E_ctdI0G4GMlGMuKg4tJ/view?usp=drive_link" onClick={() => setIsMenuOpen(false)}>Resume</a>
+          <a href="https://drive.google.com/file/d/1FIaFJF-B1hB3__9cA-PoEwcN3XciNtSR/view?usp=sharing" onClick={() => setIsMenuOpen(false)}>Resume</a>
           <a href="#" className="resume-btn">Resume <Download size={16} /></a>
         </div>
       </div>
